@@ -7,5 +7,5 @@ This analysis predicts the value above replacement (VORP) for 40 players over th
 
 We did not consider players that did not take part in the NBA combine or international draft picks leaving us with 40 players (out of 60 draft selections) for the model. The random forest is trained on 237 former or current NBA draft picks also using their physical and college statistics (25 variables in total). 
 
-Read Here: 
+Read Here: https://beyondtheaverage.wordpress.com/2018/07/23/how-high-is-trae-young-and-other-draft-picks-ceiling/
 
